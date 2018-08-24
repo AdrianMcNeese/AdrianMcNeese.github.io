@@ -21,6 +21,7 @@ a,h1,h2,h3 {
 .nav li {
     display: inline;
     padding: 10px;
+    size: 18px;
 }
 
 .nav ul{
