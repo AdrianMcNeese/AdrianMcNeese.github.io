@@ -7,7 +7,7 @@ body {
 }
 
 
-a,h1,h2,h3 {
+a,h1,h2,h3,h4 {
     font-family: 'Candal', sans-serif;
     color: #2fa339; 
 }
@@ -69,7 +69,15 @@ a,h1,h2,h3 {
     color: #c1c1c1;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin: 15px;
+}
 
+.project {
+    margin-top: 50px;
+}
+
+.project a{
+    margin-left: 30%;
 }
 
 
