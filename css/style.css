@@ -80,11 +80,11 @@ a,h1,h2,h3,h4, span {
     background: linear-gradient(rgb(45,45,46),#2fa339);
 }
 
-.nav, .proj {
+.nav, .projects {
     background-color: #0B0c10;
 }
 
-.projects {
+.proj {
     background-color: #000000;
 }
 
@@ -97,6 +97,8 @@ a,h1,h2,h3,h4, span {
     padding-top: 15px;
     padding-bottom: 15px;
     margin: 15px;
+    border-radius: 15px;
+   moz-border-radius: 15px;
 }
 
 .project {
@@ -112,8 +114,4 @@ a,h1,h2,h3,h4, span {
     display: inline-block;
     padding: 5px;
     list-style: none;
-}
-
-.contact li {
-    font-size: 70px;
 }
